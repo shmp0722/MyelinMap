@@ -1,0 +1,105 @@
+Tue Jun 27 11:57:37 JST 2017 - PreFreeSurferPipeline.sh - Platform Information Follows: 
+Linux jikei 2.6.32-642.11.1.el6.x86_64 #1 SMP Wed Oct 26 10:25:23 EDT 2016 x86_64 x86_64 x86_64 GNU/Linux
+Tue Jun 27 11:57:37 JST 2017 - PreFreeSurferPipeline.sh - Parsing Command Line Options
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - Finished Parsing Command Line Options
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - StudyFolder: /media/USB_HDD1/dMRI_data
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - Subject: CSdAVF-CH-2017-05-21
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T1wInputImages: /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/unprocessed/3T/T1w_MPR1/CSdAVF-CH-2017-05-21_3T_T1w_MPR1.nii.gz@
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T2wInputImages: /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/unprocessed/3T/T2w_SPC1/CSdAVF-CH-2017-05-21_3T_T2w_SPC1.nii.gz@
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T1wTemplate: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T1_1mm.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T1wTemplateBrain: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T1_1mm_brain.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T1wTemplate2mm: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T1_2mm.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T2wTemplate: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T2_1mm.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T2wTemplateBrain: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T2_1mm_brain.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T2wTemplate2mm: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T2_2mm.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - TemplateMask: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T1_1mm_brain_mask.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - Template2mmMask: /media/USB_HDD1/projects/Pipelines-3.22.0/global/templates/MNI152_T1_2mm_brain_mask_dil.nii.gz
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - BrainSize: 150
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - FNIRTConfig: /media/USB_HDD1/projects/Pipelines-3.22.0/global/config/T1_2_MNI152_2mm.cnf
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - MagnitudeInputName: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - PhaseInputName: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - GEB0InputName: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - TE: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - SpinEchoPhaseEncodeNegative: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - SpinEchoPhaseEncodePositive: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - DwellTime: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - SEUnwarpDir: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T1wSampleSpacing: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T2wSampleSpacing: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - UnwarpDir: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - GradientDistortionCoeffs: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - AvgrdcSTRING: NONE
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - TopupConfig: /media/USB_HDD1/projects/Pipelines-3.22.0/global/config/b0b0.cnf
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - BiasFieldSmoothingSigma: 
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - UseJacobian: true
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - FSLDIR: /home/ganka/bin/fsl
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - HCPPIPEDIR: /media/USB_HDD1/projects/Pipelines-3.22.0
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - HCPPIPEDIR_Global: /media/USB_HDD1/projects/Pipelines-3.22.0/global/scripts
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - HCPPIPEDIR_PreFS: /media/USB_HDD1/projects/Pipelines-3.22.0/PreFreeSurfer/scripts
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T1wFolder: /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T1w
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - T2wFolder: /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T2w
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - AtlasSpaceFolder: /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/MNINonLinear
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T1w/xfms/
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T2w/xfms/
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/MNINonLinear/xfms/
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - POSIXLY_CORRECT=y
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - Processing Modality:  T1w
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - NOT PERFORMING GRADIENT DISTORTION CORRECTION
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - Not Averaging T1w Images
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - ONLY ONE AVERAGE FOUND: COPYING
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - Aligning T1w image to 0.7mm MNI T1wTemplate to create native volume space
+Tue Jun 27 11:57:41 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T1w/ACPCAlignment
+ 
+ START: ACPCAlignment
+Final FOV is: 
+0.000000 192.000000 0.000000 256.000000 85.000000 150.000000 
+
+ 
+ END: ACPCAlignment
+Tue Jun 27 11:59:17 JST 2017 - PreFreeSurferPipeline.sh - Performing Brain Extraction using FNIRT-based Masking
+Tue Jun 27 11:59:17 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T1w/BrainExtraction_FNIRTbased
+ 
+ START: BrainExtraction_FNIRT
+ 
+ END: BrainExtraction_FNIRT
+Tue Jun 27 12:10:05 JST 2017 - PreFreeSurferPipeline.sh - Processing Modality:  T2w
+Tue Jun 27 12:10:05 JST 2017 - PreFreeSurferPipeline.sh - NOT PERFORMING GRADIENT DISTORTION CORRECTION
+Tue Jun 27 12:10:05 JST 2017 - PreFreeSurferPipeline.sh - Not Averaging T2w Images
+Tue Jun 27 12:10:05 JST 2017 - PreFreeSurferPipeline.sh - ONLY ONE AVERAGE FOUND: COPYING
+Tue Jun 27 12:10:05 JST 2017 - PreFreeSurferPipeline.sh - Aligning T2w image to 0.7mm MNI T2wTemplate to create native volume space
+Tue Jun 27 12:10:05 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T2w/ACPCAlignment
+ 
+ START: ACPCAlignment
+Final FOV is: 
+0.000000 192.000000 0.000000 256.000000 86.000000 150.000000 
+
+ 
+ END: ACPCAlignment
+Tue Jun 27 12:11:41 JST 2017 - PreFreeSurferPipeline.sh - Performing Brain Extraction using FNIRT-based Masking
+Tue Jun 27 12:11:41 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T2w/BrainExtraction_FNIRTbased
+ 
+ START: BrainExtraction_FNIRT
+ 
+ END: BrainExtraction_FNIRT
+Tue Jun 27 12:22:34 JST 2017 - PreFreeSurferPipeline.sh - NOT PERFORMING READOUT DISTORTION CORRECTION
+Tue Jun 27 12:22:34 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T2w/T2wToT1wReg
+ 
+ START: T2w2T1Reg
+Running FAST segmentation
+FLIRT pre-alignment
+Running BBR
+0.171917 0.999987 -0.003283 -0.003965 0.000000 0.003280 0.999994 -0.000836 0.000000 0.003968 0.000823 0.999992 0.000000 -0.383684 0.090186 0.956361 1.000000 
+ 
+ START: T2w2T1Reg
+Tue Jun 27 12:29:26 JST 2017 - PreFreeSurferPipeline.sh - Performing Bias Field Correction
+Tue Jun 27 12:29:26 JST 2017 - PreFreeSurferPipeline.sh - mkdir -p /media/USB_HDD1/dMRI_data/CSdAVF-CH-2017-05-21/T1w/BiasFieldCorrection_sqrtT1wXT1w
+ 
+ START: BiasFieldCorrection
+0.135986
+0.996233
+.9282400
+ 
+ END: BiasFieldCorrection
+Tue Jun 27 12:30:52 JST 2017 - PreFreeSurferPipeline.sh - Performing Atlas Registration to MNI152 (FLIRT and FNIRT)
+ 
+ START: AtlasRegistration to MNI152
